@@ -1,0 +1,18 @@
+{
+    "contents" : "## This is a markdown file",
+    "created" : 1434057702790.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3398810732",
+    "id" : "5EDF79DC",
+    "lastKnownWriteTime" : 1434057765,
+    "path" : "U:/datasciencecoursera/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
